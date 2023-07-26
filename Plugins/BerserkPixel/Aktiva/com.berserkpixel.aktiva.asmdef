@@ -1,0 +1,19 @@
+{
+    "name": "com.berserkpixel.aktiva",
+    "rootNamespace": "",
+    "references": [
+        "com.berserkpixel.utils",
+        "com.berserkpixel.health",
+        "DOTween.Modules",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
